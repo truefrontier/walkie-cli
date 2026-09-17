@@ -18,7 +18,7 @@
 ### From Origin (recommended for True Frontier team)
 
 ```bash
-pipx install git+https://origin.cursor.sh/truefrontier/walkie-cli.git
+pipx install git+https://github.com/truefrontier/walkie-cli.git
 ```
 
 ### From PyPI (when published)
@@ -30,7 +30,7 @@ pipx install walkie-cli
 ### For development
 
 ```bash
-git clone https://origin.cursor.sh/truefrontier/walkie-cli.git
+git clone https://github.com/truefrontier/walkie-cli.git
 cd walkie-cli
 pip install -e .
 ```
@@ -220,7 +220,7 @@ Based on Walkie.app v1.13.1 schema:
 
 ```bash
 # Clone
-git clone https://origin.cursor.sh/truefrontier/walkie-cli.git
+git clone https://github.com/truefrontier/walkie-cli.git
 cd walkie-cli
 
 # Install in editable mode

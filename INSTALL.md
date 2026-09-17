@@ -22,7 +22,7 @@ Or clone the repo and extract the artifact:
 
 ```bash
 # If you have access to the Origin repo
-git clone https://origin.cursor.com/kevnk/tmp-5b2444c3da1660db.git
+git clone https://github.com/truefrontier/walkie-cli.git
 cd tmp-5b2444c3da1660db
 # The artifact is at: artifacts/walkie-cli-0.1.0.zip
 ```
@@ -109,6 +109,6 @@ The CLI matches the live Walkie.app v1.13.1 schema verified from Kevin's Mac:
 
 ## Support
 
-- Repository: https://origin.cursor.com/kevnk/tmp-5b2444c3da1660db
+- Repository: https://github.com/truefrontier/walkie-cli
 - License: MIT (True Frontier)
 - Tests: 27/27 passing
