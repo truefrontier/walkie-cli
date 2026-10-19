@@ -48,3 +48,6 @@ htmlcov/
 
 # Local test data
 test_history.db
+
+# Exported meeting transcripts (generated output)
+exports/
