@@ -1,3 +1,5 @@
+> **Archived.** Replaced by [webcli](https://github.com/truefrontier/webcli). Install: `brew install truefrontier/tap/webcli` or `pipx install truefrontier-webcli`. The equivalent command is now `webcli walkie`.
+
 # walkie-cli
 
 **Read-only CLI for Walkie.app meeting transcripts and dictations**
